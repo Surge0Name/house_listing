@@ -21,3 +21,9 @@ The analysis focuses on comparing:
 ## Vizualitation
 Price Distribution by City
 ![Alt text](https://github.com/Surge0Name/house_listing/blob/main/images/boxplot_price.png)
+
+Median and Mean Price per m2
+![Alt text](https://github.com/Surge0Name/house_listing/blob/main/images/mean_median_barplot.png)
+
+Properties Values Comparison
+![Alt text](https://github.com/Surge0Name/house_listing/blob/main/images/propertyvalues_scatterp.png)
