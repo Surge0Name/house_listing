@@ -26,4 +26,4 @@ Median and Mean Price per m2
 ![Alt text](https://github.com/Surge0Name/house_listing/blob/main/images/mean_median_barplot.png)
 
 Properties Values Comparison
-![Alt text](https://github.com/Surge0Name/house_listing/blob/main/images/propertyvalues_scatterp.png)
+![Alt text](https://github.com/Surge0Name/house_listing/blob/main/images/propertyvalue_scatterp.png)
