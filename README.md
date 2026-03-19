@@ -27,3 +27,22 @@ Median and Mean Price per m2
 
 Properties Values Comparison
 ![Alt text](https://github.com/Surge0Name/house_listing/blob/main/images/propertyvalue_scatterp.png)
+
+## Data Extraction and Preprocessing
+The data was acquired by scrapping house listing website using selenium, cleaned, and preprocessed
+Preprocessing steps include:
+* Filled any missing data
+* Convert price and building size data into numeric format
+* Created new feature: price_per_m2
+* Perform outliers analysis
+* Use log transformation on price because price is extremely right skewed
+
+Full analysis here:
+:point_right: PDF: [Link Text](https://github.com/Surge0Name/house_listing/blob/main/report/House%20Listings%20EDA%20Report.pdf)
+:point_right: Jupyter Notebook: [Link Text](https://github.com/Surge0Name/house_listing/blob/main/notebook/eda.ipynb)
+
+Author:
+I Gede Sanjaya Putra Vhysa
+A.K.A
+Yer Boi
+
