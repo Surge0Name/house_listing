@@ -38,6 +38,7 @@ Preprocessing steps include:
 * Use log transformation on price because price is extremely right skewed
 
 Full analysis here:
+
 :point_right:   PDF: [Link Text](https://github.com/Surge0Name/house_listing/blob/main/report/House%20Listings%20EDA%20Report.pdf)
 
 :point_right:   Jupyter Notebook: [Link Text](https://github.com/Surge0Name/house_listing/blob/main/notebook/eda.ipynb)
